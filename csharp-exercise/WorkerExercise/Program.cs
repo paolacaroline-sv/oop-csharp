@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using exercicio_worker.Entities.Enums;
-using exercicio_worker.Entities;
+using WorkerExercise.Entities;
+using WorkerExercise.Entities.Enums;
 
 
-namespace exercicio_worker
+namespace WorkerExercise
 {
     internal class Program
     {

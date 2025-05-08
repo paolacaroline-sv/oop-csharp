@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exercicio_worker.Entities.Enums
+namespace WorkerExercise.Entities.Enums
 {
     enum WorkerLevel
     {

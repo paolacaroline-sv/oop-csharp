@@ -4,9 +4,9 @@ using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using exercicio_worker.Entities.Enums;
+using WorkerExercise.Entities.Enums;
 
-namespace exercicio_worker.Entities
+namespace WorkerExercise.Entities
 {
     internal class Worker
     {
